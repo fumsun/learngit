@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Git has a mutable index called stage.
 Creating a new branch is quick AND simple
 git merger test.
+git push origin dev.
